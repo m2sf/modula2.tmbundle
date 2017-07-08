@@ -9,8 +9,9 @@ This TextMate bundle supports separate dialect modes for the following Modula-2 
 
 ## Dialect Tags ##
 
-Thebundle auto-selects the dialect mode by recognising Modula-2 dialect tags. A Modula-2 dialect tag is a comment with embedded dialect information.
-Such Modula-2 dialect tags are supported across multiple utilities and frameworks, for example the Pygments rendering framework. 
+The bundle auto-selects the dialect mode by recognising Modula-2 dialect tags. A Modula-2 dialect tag
+is a comment with embedded dialect information. Such Modula-2 dialect tags are supported across
+multiple utilities and frameworks, for example the Pygments rendering framework. 
 
 However, the bundle will only recognise a Modula-2 dialect tag in the first line of a Modula-2 source file.
 
