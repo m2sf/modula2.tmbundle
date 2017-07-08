@@ -34,6 +34,6 @@ The bundle will ignore any language extension info.
 
 For best results, put one of the following tags at the very beginning of your Modula-2 source file:
 
-* `(*!m2pim*)` for source files written for PIM Modula-2
-* `(*!m2iso*)` for source files written for ISO Modula-2
-* `(*!m2r10*)` for source files written for Modula-2 R10
+* `(*!m2pim*)` in source files written for PIM Modula-2
+* `(*!m2iso*)` in source files written for ISO Modula-2
+* `(*!m2r10*)` in source files written for Modula-2 R10
